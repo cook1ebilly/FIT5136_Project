@@ -23,6 +23,10 @@ public class UserData {
         this.phoneNumber = phoneNumber;
     }
 
+    public UserData() {
+
+    }
+
     public String getId() {
         return id;
     }
